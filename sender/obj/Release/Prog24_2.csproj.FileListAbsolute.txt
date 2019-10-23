@@ -1,0 +1,8 @@
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\bin\Release\Prog24_2.exe.config
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\bin\Release\Prog24_2.exe
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\bin\Release\Prog24_2.pdb
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\obj\Release\Prog24_2.csprojAssemblyReference.cache
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\obj\Release\Prog24_2.Properties.Resources.resources
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\obj\Release\Prog24_2.csproj.GenerateResource.cache
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\obj\Release\Prog24_2.exe
+C:\Users\ddavid\source\repos\Prog24_2\Prog24_2\obj\Release\Prog24_2.pdb
